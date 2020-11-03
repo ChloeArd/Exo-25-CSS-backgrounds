@@ -6,6 +6,10 @@
         border-radius: 20px 10px;
         box-shadow: 8px 6px darkgrey;
     }
+    img {
+        width: 200px;
+        height: 200px;
+    }
     #photo1 {
         width: 400px:
         height: 400px;
